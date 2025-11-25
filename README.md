@@ -101,6 +101,8 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 ### 🎵 Currently Listening To
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31tqd2ououq6herysxlyuspvapgi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31tqd2ououq6herysxlyuspvapgi)
 
+
+
 ### 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=Malika200020&style=for-the-badge&color=blueviolet)
 
