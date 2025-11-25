@@ -63,10 +63,10 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malika200020&theme=radical" alt="GitHub Profile Summary"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Malika200020&theme=radical" alt="Stats" height="180"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Malika200020&theme=radical&utcOffset=5.5" alt="Productive Time" height="180"/>
-</div>
+</div> -->
 -->
 
 ## 🏆 GitHub Trophies
