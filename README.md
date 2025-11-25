@@ -62,13 +62,13 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Malika200020&theme=radical&no-frame=true&column=7" alt="GitHub Trophies"/>
 </div>
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Malika200020&theme=react-dark&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ## 🌐 Connect with Me
