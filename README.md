@@ -83,31 +83,6 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 
 </div>
 
-## 💻 Featured Projects
-
-### 🎯 Project 1
-Description of your amazing project with key features and technologies used.
-
-**Tech Stack:** React, Node.js, MongoDB
-
-[View Project →](https://github.com/YOUR_USERNAME/project1)
-
-### 🎨 Project 2
-Description of another awesome project highlighting what makes it unique.
-
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS
-
-[View Project →](https://github.com/YOUR_USERNAME/project2)
-
-### 🚀 Project 3
-Brief description of this innovative project and its impact.
-
-**Tech Stack:** Python, Django, PostgreSQL
-
-[View Project →](https://github.com/YOUR_USERNAME/project3)
-
----
-
 <div align="center">
   
 ### 💭 Random Dev Quote
