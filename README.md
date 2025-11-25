@@ -89,7 +89,7 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🎵 Currently Listening To
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tqd2ououq6herysxlyuspvapgi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31tqd2ououq6herysxlyuspvapgi&redirect=true)
 
 ### 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=Malika200020&style=for-the-badge&color=blueviolet)
