@@ -92,12 +92,12 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
 
 ### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Malika200020&style=for-the-badge&color=blueviolet)
 
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Malika Degaldoruwa</a></i>
+  <i>⭐️ From <a href="https://github.com/Malika200020">Malika Degaldoruwa</a></i>
 </div>
