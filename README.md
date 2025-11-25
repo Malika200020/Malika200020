@@ -98,10 +98,14 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🎵 Currently Listening To
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31tqd2ououq6herysxlyuspvapgi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31tqd2ououq6herysxlyuspvapgi)
-
-
+🐍 Watch My Contribution Snake!
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Malika200020/Malika200020/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+<!--
+  Note: This will show a 404 error until you set up the GitHub Action below.
+  Follow the setup instructions to generate your own snake animation!
+-->
 
 ### 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=Malika200020&style=for-the-badge&color=blueviolet)
