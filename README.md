@@ -51,13 +51,23 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Malika200020&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malika200020&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Malika200020&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Malika200020&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Malika200020&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+<!-- Alternative Stats (if above doesn't work) -->
+<!--
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malika200020&theme=radical" alt="GitHub Profile Summary"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malika200020&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Malika200020&theme=radical" alt="Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Malika200020&theme=radical&utcOffset=5.5" alt="Productive Time" height="180"/>
 </div>
+-->
 
 ## 🏆 GitHub Trophies
 
