@@ -20,6 +20,8 @@ I'm an independent Software Engineer and Full-Stack Developer based in Kandy, Sr
 
 🏅 **Published at IEEE ICCCNT 2025 and an NBQSA 2025 finalist** for an AI-powered project management tool.
 
+📄 **Peer-reviewed journal paper** on Easy Reach Store, an accessible Android shopping app for visually impaired users.
+
 - 💼 **Now:** independent full-stack work for clients, taking projects from requirements to deployment
 - 🏢 **Before:** Trainee Software Engineer at E-W Information Systems (Oct 2025 – Jul 2026) and SE Intern at Epic Lanka, working on eKYC for banking (2024)
 - 🌱 **Learning:** Information Systems & Business Analytics and data-driven decision making, and applying for postgraduate study
@@ -66,37 +68,36 @@ I'm an independent Software Engineer and Full-Stack Developer based in Kandy, Sr
 
 <br />
 
-## 🚀 Featured Projects
+## 💼 Work Experience
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 AI-Powered Project Management Tool</h3>
-      <p>Full-stack app with ML models for timeline prediction, defect estimation and task duration forecasting.</p>
-      <img src="https://img.shields.io/badge/IEEE_ICCCNT-2025-FE428E?style=for-the-badge&labelColor=141321" alt="Published at IEEE ICCCNT 2025" />
-      <img src="https://img.shields.io/badge/NBQSA-2025_Finalist-FE428E?style=for-the-badge&labelColor=141321" alt="NBQSA 2025 finalist" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>♿ Easy Reach Store</h3>
-      <p>Accessible Android shopping app for visually impaired users, built in Kotlin.</p>
-      <img src="https://img.shields.io/badge/Kotlin-Android-FE428E?style=for-the-badge&labelColor=141321" alt="Kotlin Android app" />
-      <img src="https://img.shields.io/badge/Journal-Peer_Reviewed-FE428E?style=for-the-badge&labelColor=141321" alt="Peer-reviewed journal publication" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💎 Gems & Jewellery Web App</h3>
-      <p>MERN stack web app with feedback management, star ratings, search and filtering.</p>
-      <img src="https://img.shields.io/badge/Stack-MERN-FE428E?style=for-the-badge&labelColor=141321" alt="MERN stack" />
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Malika200020/malika-react-tailwind-portfolio">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Malika200020&repo=malika-react-tailwind-portfolio&theme=radical&hide_border=true" alt="Portfolio repository card" width="100%" />
-      </a>
-      <p align="center"><a href="https://malika-react-tailwind-portfolio.vercel.app">🌐 View live portfolio</a></p>
-    </td>
-  </tr>
-</table>
+### 🚀 Independent Software Engineer / Full-Stack Developer
+**Kandy, Sri Lanka** · *Jul 2026 – Present*
+
+- Delivers client web applications end to end, from requirement gathering and system scope through design, development, deployment and post-delivery support
+- Single point of contact for clients across each engagement
+
+### 🏫 Trainee Software Engineer
+**E-W Information Systems (Pvt) Ltd** · *Oct 2025 – Jul 2026*
+
+- Led requirement gathering and client consultation for the Archdiocese School Management System, an enterprise platform serving private, international and vested schools
+- Owned delivery across seven modules (student, teacher and school administration, document management, analytics dashboards, reporting, role-based access control) using React, Node.js, Express and MySQL
+- Automated official document workflows with server-side PDF generation and WhatsApp delivery
+- Containerised for production with Docker, Docker Compose and Nginx, with a CI/CD pipeline deploying on changes to main
+- Delivered the Chandananda College Management System from business analysis through deployment and ongoing support
+
+<img src="https://img.shields.io/badge/React-141321?style=for-the-badge&logo=react&logoColor=FE428E" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-141321?style=for-the-badge&logo=nodedotjs&logoColor=FE428E" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-141321?style=for-the-badge&logo=express&logoColor=FE428E" alt="Express" />
+<img src="https://img.shields.io/badge/MySQL-141321?style=for-the-badge&logo=mysql&logoColor=FE428E" alt="MySQL" />
+<img src="https://img.shields.io/badge/Docker-141321?style=for-the-badge&logo=docker&logoColor=FE428E" alt="Docker" />
+<img src="https://img.shields.io/badge/Nginx-141321?style=for-the-badge&logo=nginx&logoColor=FE428E" alt="Nginx" />
+
+### 🏦 Software Engineering Intern
+**Epic Lanka (Pvt) Ltd** · *Feb 2024 – Aug 2024*
+
+- Built features for a production eKYC suite for the banking sector (Seylan Admin and Product Admin modules)
+- Resolved frontend and backend defects in the Digiface web app alongside QA
+- Improved database performance for automated report generation and managed version releases
 
 <br />
 
