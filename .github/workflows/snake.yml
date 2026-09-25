@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: Malika200020
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#fe428e&color_dots=#ebedf0,#fcc5d9,#fd93b8,#fe6a9f,#fe428e
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#f8d847&color_dots=#1f1d33,#5c1f45,#9a2c62,#d4387c,#fe428e
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           

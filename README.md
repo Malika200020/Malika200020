@@ -1,119 +1,143 @@
-# Hi there, I'm Malika Degaldoruwa 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:141321,55:fe428e,100:f8d847&text=Malika%20Degaldoruwa&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn" alt="Malika Degaldoruwa banner" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1500&color=FE428E&center=true&vCenter=true&width=640&lines=Full-Stack+Developer;Software+Engineer;IEEE+Published+Researcher;NBQSA+2025+Finalist;Turning+Business+Needs+into+Systems" alt="Typing animation: Full-Stack Developer, Software Engineer, IEEE Published Researcher, NBQSA 2025 Finalist, Turning Business Needs into Systems" />
+
+**Software Engineer building end-to-end systems — from requirements to deployment.**
+
+<a href="https://malika-react-tailwind-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-141321?style=for-the-badge&logo=vercel&logoColor=FE428E" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/malika-degaldoruwa-69362a215"><img src="https://img.shields.io/badge/LinkedIn-141321?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZFNDI4RSIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
+<a href="mailto:malikadegaldoruwa@gmail.com"><img src="https://img.shields.io/badge/Email-141321?style=for-the-badge&logo=gmail&logoColor=FE428E" alt="Email" /></a>
+
 </div>
 
-## 🚀 About Me
+<br />
 
-I'm a passionate **Full Stack Developer** with expertise in building scalable web applications and solving complex problems. I love exploring new technologies and creating innovative solutions.
+## 👋 About Me
 
-- 🔭 Currently working on exciting projects
-- 🌱 Continuously learning and growing
-- 💼 Open to collaboration opportunities
-- 📫 How to reach me: **malikadegaldoruwa@gmail.com**
+I'm an independent Software Engineer and Full-Stack Developer based in Kandy, Sri Lanka, delivering client web apps end to end since July 2026. I hold a BSc (Hons) in IT, specialising in Software Engineering, from SLIIT (2021–2025).
+
+🏅 **Published at IEEE ICCCNT 2025 and an NBQSA 2025 finalist** for an AI-powered project management tool.
+
+- 💼 **Now:** independent full-stack work for clients, taking projects from requirements to deployment
+- 🏢 **Before:** Trainee Software Engineer at E-W Information Systems (Oct 2025 – Jul 2026) and SE Intern at Epic Lanka, working on eKYC for banking (2024)
+- 🌱 **Learning:** Information Systems & Business Analytics and data-driven decision making, and applying for postgraduate study
+
+<br />
 
 ## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages**<br />
+<img src="https://img.shields.io/badge/JavaScript-141321?style=for-the-badge&logo=javascript&logoColor=FE428E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Java-141321?style=for-the-badge&logo=openjdk&logoColor=FE428E" alt="Java" />
+<img src="https://img.shields.io/badge/Python-141321?style=for-the-badge&logo=python&logoColor=FE428E" alt="Python" />
+<img src="https://img.shields.io/badge/Kotlin-141321?style=for-the-badge&logo=kotlin&logoColor=FE428E" alt="Kotlin" />
+<img src="https://img.shields.io/badge/C++-141321?style=for-the-badge&logo=cplusplus&logoColor=FE428E" alt="C++" />
+<img src="https://img.shields.io/badge/C-141321?style=for-the-badge&logo=c&logoColor=FE428E" alt="C" />
+<img src="https://img.shields.io/badge/SQL-141321?style=for-the-badge" alt="SQL" />
+<img src="https://img.shields.io/badge/R-141321?style=for-the-badge&logo=r&logoColor=FE428E" alt="R" />
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+**Frontend**<br />
+<img src="https://img.shields.io/badge/React-141321?style=for-the-badge&logo=react&logoColor=FE428E" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-141321?style=for-the-badge&logo=tailwindcss&logoColor=FE428E" alt="Tailwind CSS" />
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+**Backend**<br />
+<img src="https://img.shields.io/badge/Node.js-141321?style=for-the-badge&logo=nodedotjs&logoColor=FE428E" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-141321?style=for-the-badge&logo=express&logoColor=FE428E" alt="Express" />
+<img src="https://img.shields.io/badge/NestJS-141321?style=for-the-badge&logo=nestjs&logoColor=FE428E" alt="NestJS" />
 
-### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**Databases**<br />
+<img src="https://img.shields.io/badge/MySQL-141321?style=for-the-badge&logo=mysql&logoColor=FE428E" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-141321?style=for-the-badge&logo=mongodb&logoColor=FE428E" alt="MongoDB" />
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**DevOps & Tools**<br />
+<img src="https://img.shields.io/badge/Docker-141321?style=for-the-badge&logo=docker&logoColor=FE428E" alt="Docker" />
+<img src="https://img.shields.io/badge/Nginx-141321?style=for-the-badge&logo=nginx&logoColor=FE428E" alt="Nginx" />
+<img src="https://img.shields.io/badge/GitHub_Actions-141321?style=for-the-badge&logo=githubactions&logoColor=FE428E" alt="CI/CD with GitHub Actions" />
+<img src="https://img.shields.io/badge/Git-141321?style=for-the-badge&logo=git&logoColor=FE428E" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-141321?style=for-the-badge&logo=github&logoColor=FE428E" alt="GitHub" />
+<img src="https://img.shields.io/badge/Jira-141321?style=for-the-badge&logo=jira&logoColor=FE428E" alt="Jira" />
+<img src="https://img.shields.io/badge/VS_Code-141321?style=for-the-badge&logo=vscodium&logoColor=FE428E" alt="VS Code" />
+
+**Data & ML**<br />
+<img src="https://img.shields.io/badge/Python-141321?style=for-the-badge&logo=python&logoColor=FE428E" alt="Python" />
+<img src="https://img.shields.io/badge/ML_Model_Integration-141321?style=for-the-badge" alt="Machine learning model integration" />
+
+<br />
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 AI-Powered Project Management Tool</h3>
+      <p>Full-stack app with ML models for timeline prediction, defect estimation and task duration forecasting.</p>
+      <img src="https://img.shields.io/badge/IEEE_ICCCNT-2025-FE428E?style=for-the-badge&labelColor=141321" alt="Published at IEEE ICCCNT 2025" />
+      <img src="https://img.shields.io/badge/NBQSA-2025_Finalist-FE428E?style=for-the-badge&labelColor=141321" alt="NBQSA 2025 finalist" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>♿ Easy Reach Store</h3>
+      <p>Accessible Android shopping app for visually impaired users, built in Kotlin.</p>
+      <img src="https://img.shields.io/badge/Kotlin-Android-FE428E?style=for-the-badge&labelColor=141321" alt="Kotlin Android app" />
+      <img src="https://img.shields.io/badge/Journal-Peer_Reviewed-FE428E?style=for-the-badge&labelColor=141321" alt="Peer-reviewed journal publication" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💎 Gems & Jewellery Web App</h3>
+      <p>MERN stack web app with feedback management, star ratings, search and filtering.</p>
+      <img src="https://img.shields.io/badge/Stack-MERN-FE428E?style=for-the-badge&labelColor=141321" alt="MERN stack" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Malika200020/malika-react-tailwind-portfolio">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Malika200020&repo=malika-react-tailwind-portfolio&theme=radical&hide_border=true" alt="Portfolio repository card" width="100%" />
+      </a>
+      <p align="center"><a href="https://malika-react-tailwind-portfolio.vercel.app">🌐 View live portfolio</a></p>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Malika200020&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Malika200020&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Malika200020&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-<!-- Alternative Stats (if above doesn't work) -->
-<!--
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malika200020&theme=radical" alt="GitHub Profile Summary"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Malika200020&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats for Malika200020" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Malika200020&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages for Malika200020" height="170" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=Malika200020&theme=radical&hide_border=true" alt="GitHub contribution streak for Malika200020" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Malika200020&theme=radical&hide_border=true" alt="Contribution activity graph for Malika200020" width="100%" />
 </div>
 
-<!-- <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Malika200020&theme=radical" alt="Stats" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Malika200020&theme=radical&utcOffset=5.5" alt="Productive Time" height="180"/>
-</div> -->
+<br />
 
-
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Malika200020&theme=radical&no-frame=true&column=7" alt="GitHub Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Malika200020/Malika200020/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Malika200020/Malika200020/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Malika200020/Malika200020/output/github-contribution-grid-snake.svg" alt="Snake animation eating the contribution graph" />
+  </picture>
 </div>
 
-## 📈 Activity Graph
+<br />
+
+## 🤝 Connect With Me
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Malika200020&theme=react-dark&hide_border=true" alt="Activity Graph"/>
-</div>
 
-## 🌐 Connect with Me
+<a href="https://malika-react-tailwind-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FE428E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/malika-degaldoruwa-69362a215"><img src="https://img.shields.io/badge/LinkedIn-FE428E?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
+<a href="mailto:malikadegaldoruwa@gmail.com"><img src="https://img.shields.io/badge/Email-FE428E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Malika200020"><img src="https://img.shields.io/badge/GitHub-FE428E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://malika-react-tailwind-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://lk.linkedin.com/in/malika-degaldoruwa))
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Malika200020)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-malikadegaldoruwa@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+<br /><br />
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=Malika200020&style=for-the-badge&color=fe428e&label=PROFILE+VIEWS" alt="Profile views counter" />
 
-<div align="center">
-  
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:f8d847,45:fe428e,100:141321" alt="Footer wave" width="100%" />
 
-🐍 Watch My Contribution Snake!
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Malika200020/Malika200020/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-<!--
-  Note: This will show a 404 error until you set up the GitHub Action below.
-  Follow the setup instructions to generate your own snake animation!
--->
-
-### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=Malika200020&style=for-the-badge&color=blueviolet)
-
-</div>
-
----
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/Malika200020">Malika Degaldoruwa</a></i>
 </div>
